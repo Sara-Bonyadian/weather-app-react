@@ -1,7 +1,7 @@
 import "./index.css";
 import React from "react";
 import WeatherSearch from "./WeatherSearch";
-
+import 'bootstrap/dist/css/bootstrap.css';
 export default function App() {
   return (
     <div className="container">
